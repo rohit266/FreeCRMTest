@@ -26,6 +26,8 @@ public class HomePageTest extends TestBase{
 		super(); //By the user of super() keyword, we directly call to the super class constructor (now it is calling TestBase.java class constructor)
 
 		System.out.println("Page is ready with latest changes");
+		
+		System.out.println("Cahnges by system user");
 
 	}
 	
