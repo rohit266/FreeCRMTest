@@ -24,8 +24,8 @@ public class HomePageTest extends TestBase{
 	
 	public HomePageTest(){
 		super(); //By the user of super() keyword, we directly call to the super class constructor (now it is calling TestBase.java class constructor)
-		System.out.println("Performe changes by User 01");
-		System.out.println("Again changes Performe by User 01");
+		System.out.println("Performe changes not system it is by User 01");
+
 	}
 	
 	
