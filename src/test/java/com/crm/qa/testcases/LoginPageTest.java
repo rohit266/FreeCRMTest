@@ -16,7 +16,11 @@ public class LoginPageTest extends TestBase{
 	
 	public LoginPageTest(){
 		super(); //By the use of super() keyword, we directly call to the super class constructor (now it is calling TestBase.java class contructor)
+
 		System.out.println("Cahnges by system user");
+
+		System.out.println("Performe changes by GIT 0user");
+
 	}
 
 	@BeforeMethod
